@@ -1,5 +1,6 @@
 # Starter Web Repo
 This is a coure on git and github
+Be pragmatic programer to understan all
 ## Introduction
 we will discuss how to install and use git and github
 ## Purpose
