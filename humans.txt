@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-to all my students!
+Thanks alot to all my colleagus for being nice to me
     <name>
 
 # TECHNOLOGY COLOPHON
