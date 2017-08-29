@@ -1,5 +1,5 @@
 # Starter Web Repo
-This is a coure on git and github
+This is a coure on git and github by a pragmatic programer
 Be pragmatic programer to understan all
 ## Introduction
 we will discuss how to install and use git and github
@@ -13,4 +13,3 @@ There plent of area to contirbute if u interested in git and helping others
 Call us or send us email stating ur interster  
 ## Copy Right
 @copyright 2017.All Rights Reserved.
-## Footer
